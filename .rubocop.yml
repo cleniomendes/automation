@@ -1,0 +1,13 @@
+AllCops:
+  TargetRubyVersion: 2.3
+  Exclude:
+    # gems
+    - ./*
+    # config
+    - config/**/*.rb
+    # bin
+    - bin/**/*
+    # db
+    - db/**/*
+    # test
+    - test/**/*
