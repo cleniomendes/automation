@@ -11,6 +11,9 @@
 // about supported directives.
 //
 //= require jquery
+//= require tether
+//= require popper.min
+//= require bootstrap.min
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
